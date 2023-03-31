@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author CK
+ *
+ */
+module StarPattern {
+}
