@@ -5,7 +5,7 @@ public class DiamondShape {
 
 	public static void main(String[] args) {
 		
-		int space=3;
+		int space=0; // changes by me
 		int star=1 ;
 		
 		for(int i=1;i<=4;i++) {
